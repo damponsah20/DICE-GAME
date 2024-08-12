@@ -1,1 +1,1 @@
-# DICE-GAME
+A dice game involving multiple players
